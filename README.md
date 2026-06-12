@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1482773726608097361/1514967686189289512/ilovetempdrive.png?ex=6a2d4b1b&is=6a2bf99b&hm=147618a545038411ee4d2fd379f21139eeed86be1d0547de59284e831a811aa5" alt="iLoveTempDrive Banner" width="100%" />
+<img src="https://cdn.discordapp.com/attachments/1482773726608097361/1514967686189289512/ilovetempdrive.png?ex=6a2d4b1b&is=6a2bf99b&hm=147618a545038411ee4d2fd379f21139eeed86be1d0547de59284e831a811aa5" alt="iLoveTempDrive Logo" width="150" />
 
 <br/>
 <br/>
